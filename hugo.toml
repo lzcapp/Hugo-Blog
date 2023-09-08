@@ -1,0 +1,4 @@
+baseURL = 'https://blog.lzc.app/'
+languageCode = 'zh-cn'
+title = "LZC.app's Blog"
+theme = 'paper'
