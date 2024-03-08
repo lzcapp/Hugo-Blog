@@ -16,9 +16,9 @@ theme = 'paper'
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'admin@lzc.app'                 # gravatar email or image url
-  name = 'LZC.app'
-  bio = 'My Hugo Blog'
+  # avatar = 'admin@lzc.app'                 # gravatar email or image url
+  # name = 'LZC.app'
+  # bio = 'My Hugo Blog'
 
 
   # misc
