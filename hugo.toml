@@ -20,7 +20,6 @@ theme = 'paper'
   # name = 'LZC.app'
   # bio = 'My Hugo Blog'
 
-
   # misc
   disableHLJS = true                        # disable highlight.js
   disablePostNavigation = true              # disable post navigation
